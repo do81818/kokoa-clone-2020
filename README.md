@@ -49,9 +49,20 @@ No Service 부분이 다른 요소들 보다 상대적으로 크기 때문에 �
 
 ## Log In Form
 
+- `input:focus {outline: none;}` : input 요소가 포커싱 상태일 때 아웃라인 제거하기
 - `element:not([type="submit])` : () 안의 요소가 아닌 곳에 속성 적용
 
 ---
+
+## Recap and Forms
+
+조금 더 파일을 구성하고 싶다면 컴포넌트와 화면에 쓰이는 CSS를 폴더로 분리
+
+styles.css 에는 모든 화면에 적용될 수 있는 스타일을 써놓자 (font 같은거) (취향)
+
+form method="GET" : 서버로 보내는 정보가 URL에 노출됨 (보안에 취약함)
+
+form method="POST" : 백엔드 서버로 데이터를 보내는 방식 (정보가 노출되지 않음)
 
 ## Navigation Bar
 
