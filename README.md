@@ -77,3 +77,9 @@ form method="POST" : 백엔드 서버로 데이터를 보내는 방식 (정보�
   box-sizing: border-box;
 }
 ```
+
+---
+
+## Chats Screen
+
+같은 디자인을 재사용하자 (코드의 재사용성을 높입시다.)
