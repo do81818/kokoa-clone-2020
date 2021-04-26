@@ -51,6 +51,7 @@ No Service 부분이 다른 요소들 보다 상대적으로 크기 때문에 �
 
 - `input:focus {outline: none;}` : input 요소가 포커싱 상태일 때 아웃라인 제거하기
 - `element:not([type="submit])` : () 안의 요소가 아닌 곳에 속성 적용
+- `autocomplete 속성` : input 요소 자동완성 해제
 
 ---
 
