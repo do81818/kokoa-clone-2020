@@ -143,3 +143,17 @@ flex 박스를 쓰지 않아도 margin auto 를 잘사용하면 잘 정렬할 �
   will-change : transform;
 }
 ```
+
+---
+
+## No Mobile Media Query
+
+미디어쿼리
+
+```CSS
+@media screen and (조건) {
+  h1 {
+    font-size: 15px;
+  }
+}
+```
