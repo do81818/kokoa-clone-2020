@@ -83,3 +83,16 @@ form method="POST" : 백엔드 서버로 데이터를 보내는 방식 (정보�
 ## Chats Screen
 
 같은 디자인을 재사용하자 (코드의 재사용성을 높입시다.)
+
+## Find Screen
+
+- divider (vertical bar) 만들기
+
+```CSS
+.open-post__members .divider {
+  width: 2px;
+  height: 15px;
+  margin: 0px 5px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+```
