@@ -110,3 +110,10 @@ flex 박스를 쓰지 않아도 margin auto 를 잘사용하면 잘 정렬할 �
   margin-left: auto;
 }
 ```
+
+---
+
+## Splash Screen
+
+- `animation` 속성 `forwards` 값: 애니메이션의 마지막 속성값을 유지
+- `animation-delay` : `animation-delay` 속성의 값만큼 대기했다가 애니메이션을 실행한다.
