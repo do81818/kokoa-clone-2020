@@ -48,7 +48,7 @@
   align-items: flex-end;
 }
 
-.user-component_time {
+.user-component__time {
   margin-bottom: 10px;
   display: block;
 }
