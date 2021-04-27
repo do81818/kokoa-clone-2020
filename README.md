@@ -96,3 +96,17 @@ form method="POST" : 백엔드 서버로 데이터를 보내는 방식 (정보�
   background-color: rgba(0, 0, 0, 0.2);
 }
 ```
+
+## Settings Screen
+
+flex 박스를 쓰지 않아도 margin auto 를 잘사용하면 잘 정렬할 수 있다.
+
+```CSS
+.alt-header__column:first-child {
+  margin-right: auto;
+}
+
+.alt-header__column:last-child {
+  margin-left: auto;
+}
+```
